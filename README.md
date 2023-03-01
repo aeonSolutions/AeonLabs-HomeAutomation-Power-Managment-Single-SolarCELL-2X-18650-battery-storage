@@ -41,7 +41,7 @@ waiting to be tested. Stay tuned for updates.
 ## PCB
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-2X-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
 </p>
 
 <br>
