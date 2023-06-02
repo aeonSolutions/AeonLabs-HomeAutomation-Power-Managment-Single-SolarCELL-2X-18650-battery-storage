@@ -29,13 +29,13 @@ One important takeway about this prototype project is the ability to be installe
 </p>
 
 
-A breif view of specifications:
+A brief view of specifications:
 
 - 2x 18650 LiPo battery management system
-- the PCB can be connected in series to form a lenght of solar cell tiles packed together (each with its own single BMS. 
+- the PCB can be connected in series to form a length of solar cell tiles packed together (each with its own single BMS.
 - Main ON/OFF switch.
-- PCB asssembly in series made with a 10 pin pin header/ socket. For "plug and play" type of instalations
-- Screw terminal to connect main low power 5V DC line at home/office. 
+- PCB assembly in series made with a 10-pin header/ socket. For "plug and play" type of installations
+- Screw terminal to connect main low power 5V DC line at home/office.
 
 <br>
 
